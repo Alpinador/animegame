@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/01/03 20:12:34.000.750,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2018/01/03 20:12:51.000.551,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/03/24 17:19:55.000.195,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2018/03/24 17:20:02.000.819,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/04/10 21:56:58.000.989,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2018/04/10 21:57:30.000.651,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/04/12 15:45:15.000.810,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2018/04/12 15:45:29.000.393,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/10/09 10:58:45.000.208,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2018/10/09 10:58:54.000.156,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/10/09 14:53:52.000.701,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2018/10/09 14:54:01.000.041,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/11/30 22:59:42.000.044,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2018/11/30 23:00:00.000.613,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/12/15 14:34:23.404,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2018/12/15 14:34:40.079,=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/12/15 14:43:33.813,C:\Users\hp\Documents\Embarcadero\Studio\Projects\animegame\Unit1.dfm=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/12/15 14:43:33.813,C:\Users\hp\Documents\Embarcadero\Studio\Projects\animegame\Unit1.cpp=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/12/15 14:43:33.813,C:\Users\hp\Documents\Embarcadero\Studio\Projects\animegame\Unit1.h=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018/12/15 14:43:36.687,C:\Users\hp\Documents\Embarcadero\Studio\Projects\animegame\Project2PCH1.h=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2018/12/15 14:43:46.282,C:\Users\hp\Documents\Embarcadero\Studio\Projects\animegame\Project_animePCH1.h=C:\Users\hp\Documents\Embarcadero\Studio\Projects\animegame\Project2PCH1.h</Transaction>
+    <Transaction>2018/12/15 14:43:46.301,C:\Users\hp\Documents\Embarcadero\Studio\Projects\animegame\Project_anime.cbproj=C:\Users\hp\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
